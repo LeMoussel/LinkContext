@@ -29,7 +29,7 @@ python3 main.py --url "http://example.com/"
 ## Références
 
 * [Block-o-Matic](https://bom.ciens.ucv.ve/get-it/) : BOM - Segmenteur de page web automatique.
-  * Andrés Sanoja Vargas. [Web page segmentation, evaluation and applications](https://tel.archives-ouvertes.fr/tel-01128002/). Web. Université Pierre et Marie Curie - Paris VI, 2015. English. ￿NNT: 2015PA066004￿. ￿tel-01128002￿.
+  * Andrés Sanoja Vargas. [Web page segmentation, evaluation and applications](https://tel.archives-ouvertes.fr/tel-01128002/). Web. Université Pierre et Marie Curie - Paris VI, 2015. English. NNT: 2015PA066004. tel-01128002.
 
 ## Todo
 
